@@ -1,0 +1,28 @@
+1) Strings are immutable unlike arrays
+2) String is an array of characters
+
+STRING METHODS:
+1.	String.slice(2) || String.slice(1,2)
+2.	String.indexOf(char)
+3.	String.split(“”) //splits into multiple string(arrays)
+4.	String.includes(subStr)
+5.	String.startsWith()
+6.	String.endsWith()
+7.	String.trim()
+8.	String.replace()
+9.	String.substring()
+10.	String.charAt()
+11.	String.concat()
+12.	String.toUpperCase(), toLowerCase()
+
+
+#SUB-STRING
+    - Has to be a continuous characters in a string.
+    - "abcdef" => "abc", "cde" ...etc
+
+#SUB-SEQUENCE
+    - Doesn't have to be continuous, pick anything you like but in order
+    - "abcdef" => "bcef" is a subsequence
+    - every substring is a subsequence, but every subsequence is not a substring
+
+
