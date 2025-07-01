@@ -15,3 +15,7 @@ function findCommonPrefixAndSuffix(str1, str2) {
 
     return "";
 }
+
+let str1 = "aabcd";
+let str2 = "hijklmaa";
+console.log(findCommonPrefixAndSuffix(str1, str2))

@@ -1,6 +1,8 @@
 /*
 Problem Description
-In a land of integers, a challenge arises. You have an array, and you must create another array of the same length. Each element in this new array depends on the difference between the sum of elements to its left and the sum of elements to its right. If there are no elements to the left or right, consider it as 0. Solve the challenge and return the new array as your answer.
+In a land of integers, a challenge arises. You have an array, and you must create another array of the same length. 
+Each element in this new array depends on the difference between the sum of elements to its left and the sum of elements to its right. 
+If there are no elements to the left or right, consider it as 0. Solve the challenge and return the new array as your answer.
 
 Note: answer.length == nums.length.
 
